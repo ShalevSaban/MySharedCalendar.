@@ -1,4 +1,4 @@
-# MyCalendarShared
+# MySharedCalendar
 
 Online Calendar with shared/private events -includs locations ,photos and friends .
 
